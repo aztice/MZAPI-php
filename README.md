@@ -1,5 +1,5 @@
 # MZAPI-php
-> Written by ![@aztice](https://github.com/aztice/)
+> Written by [@aztice](https://github.com/aztice/)
 
 # DEPLOYMENT
 > `Composer` is not available in this moment.
