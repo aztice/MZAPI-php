@@ -11,7 +11,7 @@
 # SUPPORT
 > SELECT ONE
 
-Contact ![@AuthorEmail](mailto:light-team@foxmail.com) [OR] ![@aztice](https://github.com/aztice/)
+Contact [@AuthorEmail](mailto:light-team@foxmail.com) [OR] [@aztice](https://github.com/aztice/)
 To have a tech. support.
 If you have a bug report,please PR instead to the main REPO.
 
